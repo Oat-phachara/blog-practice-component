@@ -1,0 +1,71 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  /* padding: 2rem; */
+  /* text-align: center; */
+}
+
+.logo {
+  font-weight: 900;
+  font-size: 32px;
+  color: rgb(85, 207, 85);
+  margin-bottom: 12px;
+  margin-left: 20px;
+}
+
+.bordered {
+  border: solid rgb(191, 173, 209);
+}
+.bg-blue {
+  background-color: rgba(55, 55, 143, 0.932);
+}
+.bg-black {
+  background-color: black;
+}
+.header {
+  padding-top: 32px;
+}
+.navbar a {
+  color: rgb(85, 207, 85);
+  margin: 12px;
+}
+.navbar {
+  padding: 5px;
+}
+
+.card {
+  background-color: aliceblue;
+  padding-top: 10px;
+}
+.title {
+  color: rgb(255, 255, 255);
+  padding: 1px 20px;
+  border-radius: 10px;
+  margin: 10px;
+}
+.content {
+  color: rgb(13, 13, 54);
+  padding: 10px 10px;
+}
+
+.content img {
+  display: inline;
+  float: left;
+  padding: 10px;
+  line-height: 100px;
+}
+.readmore {
+  border: 1px solid rgb(202, 202, 202);
+  text-align: left;
+  margin-top: 30px;
+  padding: 5px 30px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.co-read {
+  color: rgba(55, 55, 143, 0.932);
+}
+.count {
+  color: chocolate;
+}
